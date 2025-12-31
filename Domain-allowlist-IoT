@@ -196,7 +196,6 @@
 @@||xiaoyi.com^
 @@||miwifi.com^
 @@||iotbing.com^
-@@||cspserver.net^
 @@||icouser.net^
 @@||ecouser.net^
 @@||icouser.xyz^
@@ -213,6 +212,14 @@
 @@||samsung.com^
 @@||samsungosp.com^
 @@||samsungknox.com^
+@@||samsunghrm.com^
+@@||smartthings.com^
+@@||api.smartthings.com^
+@@||samsungqbe.com^
+@@||cspserver.net^
+cdn.samsungcloudsolution.com^
+@@||time.android.com^
+@@||esimsamsung.com^
 
 ! --- 13. Allowlist NextDNS ---
 @@||cdn.cookielaw.org^
@@ -284,3 +291,9 @@
 # --- TIME SERVER TRUNG QUỐC (ĐỒNG BỘ GIỜ) ---
 @@||ntp.org.cn^
 @@||cn.pool.ntp.org^
+
+# --- ECOVACS ROBOTICS (NỘI ĐỊA) ---
+@@||icouser.net^
+@@||godns.me^
+@@||ecovacs.com^
+@@||ecovacs.cn^

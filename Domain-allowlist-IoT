@@ -260,3 +260,27 @@
 @@||aliyuncsslbintl.com^
 @@||tuyaus.com^
 @@||tuyaeu.com^
+
+# --- XIAOMI / MIJIA (NỘI ĐỊA & QUỐC TẾ) ---
+@@||io.mi.com^
+@@||api.io.mi.com^
+@@||ot.io.mi.com^
+@@||v.io.mi.com^
+@@||cdn.cnbj1.fds.api.mi-img.com^
+@@||home.mi.com^
+@@||api.mi-home.com^
+@@||gm.io.mi.com^
+
+# --- HẠ TẦNG TRUNG QUỐC (CỰC QUAN TRỌNG VỚI BẢN NỘI ĐỊA) ---
+# Alibaba Cloud (Nền tảng của Tuya/Xiaomi)
+@@||aliyun.com^
+@@||aliyuncs.com^
+# Tencent (Dùng cho Push thông báo)
+@@||qq.com^
+@@||tencent.com^
+# Baidu (Dùng để check kết nối internet)
+@@||baidu.com^
+
+# --- TIME SERVER TRUNG QUỐC (ĐỒNG BỘ GIỜ) ---
+@@||ntp.org.cn^
+@@||cn.pool.ntp.org^
